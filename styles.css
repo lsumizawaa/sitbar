@@ -1,0 +1,8 @@
+body{
+    background-color: #c48a3fef;
+    background-image: linear-gradient(to right, rgb(226, 191, 146), rgb(226, 191, 146));
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
